@@ -3,10 +3,10 @@ Code for the 1st place solution in [DeepGlobe Road Extraction Challenge](https:/
 
 # Requirements
 
-- Cuda 8.0
-- Python 2.7
-- Pytorch 0.2.0
-- cv2
+- Cuda 10.1
+- Python 3.7
+- Pytorch 1.8.1
+- opencv-python 3.4.10
 
 # Usage
 
